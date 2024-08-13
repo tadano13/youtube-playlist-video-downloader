@@ -56,7 +56,7 @@ API_KEY=your_api_key
 ```
 3. move to dist folder.<br>
 4. Download all files properly.<br>
-5. you will see main.exe file double click on it.<br>
+5. you will see orange.exe file double click on it.<br>
    ![main.exe](./images/s2.png)<br>
    
 6. You will see prompt likw given below follow instructions on it..
