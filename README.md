@@ -1,7 +1,7 @@
 # YouTube Playlist Downloader V2
 
 A Python tool to download YouTube playlists.
-Older Verison has been updated with newer one where I have solved the problem of no audio issue after downloading video. Now you dont have to click on links to download you just have to open the exe file and input playlist id it will automatically download the files in your folder where the exe is present. 
+Older Verison has been updated with newer one where I have solved the problem of no audio issue after downloading video. Now you dont have to click on links to download you just have to open the exe file and input playlist id or video it will automatically download the files in your folder where the exe is present. 
 
 ## Features
 
