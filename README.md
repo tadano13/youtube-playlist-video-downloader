@@ -9,6 +9,7 @@ Older Verison has been updated with newer one where I have solved the problem of
 - Audio issues solved
 - Version 2
 - Less time consuming
+- Single video download option added
 
 ## Installation
 
