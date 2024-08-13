@@ -68,9 +68,13 @@ API_KEY=your_api_key
 8. You can get playlist code in url when you open a playlist it will look like the example given below
    ![playlist_id](./images/s5.png)<br>
 
-8. Follow the prompts to input the playlist URL code and other settings.<br>
+9. You can get video id of video as shown below
+    ![video_id](./images/s6.png)
+   - Or you can check this video which can help you finnding it. https://youtu.be/liJVSwOiiwg?si=KeSMQ5HYjpc7O_5i
+   
+10. Follow the prompts to input the playlist URL code and other settings.<br>
 
-9. Make sure you follow all instructions properly.
+11. Make sure you follow all instructions properly.
 
 ## REFRENCES
 
