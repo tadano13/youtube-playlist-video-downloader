@@ -59,7 +59,7 @@ API_KEY=your_api_key
 5. you will see orange.exe file double click on it.<br>
    ![main.exe](./images/s2.png)<br>
    
-6. You will see prompt likw given below follow instructions on it..
+6. You will see prompt like given below follow instructions on it enter one of the option like shown below..
    ![exe file interface](./images/s3.png)<br>
    
 7. If you see any error like the picture given below, Make sure your internet connection  is good and your api limit is not exceeded.
