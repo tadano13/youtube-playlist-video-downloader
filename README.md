@@ -15,11 +15,11 @@ Older Verison has been updated with newer one where I have solved the problem of
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tadano13/y2-playlist-downloader-v2.git
+   git clone https://github.com/tadano13/youtube-playlist-video-downloader.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd y2-playlist-downloader-v2
+   cd youtube-playlist-video-downloader
    ```
 ## Required Libraries
 
